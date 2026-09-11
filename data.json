@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "u-artisan",
+      "name": "Ramesh Kumar",
+      "email": "artisan@craftora.demo",
+      "passwordHash": "ca10d701562d9790df548121e0126886968361de7efd2bc0c85613cc2a9c9ed1",
+      "role": "artisan",
+      "phone": "+91 90000 12345",
+      "bio": "Traditional artisan creating bamboo and terracotta crafts."
+    },
+    {
+      "id": "u-buyer",
+      "name": "Priya Sharma",
+      "email": "buyer@craftora.demo",
+      "passwordHash": "ca10d701562d9790df548121e0126886968361de7efd2bc0c85613cc2a9c9ed1",
+      "role": "buyer"
+    }
+  ],
+  "products": [],
+  "enquiries": [],
+  "orders": [],
+  "sessions": []
+}
